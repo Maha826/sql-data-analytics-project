@@ -1,0 +1,1 @@
+SQL data analytics project focused on exploring and analyzing relational databases. The work included building metrics, tracking time-based trends, cumulative reporting, and segmentation to identify meaningful patterns. The project demonstrates practical skills in writing SQL queries for data exploration, analysis, and business reporting.
